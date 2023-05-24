@@ -2,7 +2,7 @@
 
 Dev - Mario Chavez [GitHub](https://github.com/Mario-Chavez)
 
-## Clonar repo
+## Clonar repositorio
 
 ```bash
 git https://github.com/Mario-Chavez/practico-react-ejercicio7.git
